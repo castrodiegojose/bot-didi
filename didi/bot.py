@@ -168,15 +168,44 @@ def _dispatch(api, store, update):
     _send(api, callback["message"]["chat"]["id"], result)
 
 
+def webhook_url(external):
+    return external.rstrip("/") + "/telegram"
+
+
 def listen_for_healthcheck():
     port = os.environ.get("PORT")
     if not port:
         return
+    _serve(int(port), _handler(None, None))
+    print(f"Salud en el puerto {port}", flush=True)
 
-    class Health(BaseHTTPRequestHandler):
+
+def _handler(api, store):
+    class Handler(BaseHTTPRequestHandler):
         def do_GET(self):
-            body = b"ok"
+            self._text(200, b"ok")
+
+        def do_HEAD(self):
             self.send_response(200)
+            self.send_header("Content-Type", "text/plain")
+            self.end_headers()
+
+        def do_POST(self):
+            length = int(self.headers.get("Content-Length") or 0)
+            raw = self.rfile.read(length) if length else b""
+            if self.path.split("?", 1)[0] != "/telegram" or api is None:
+                self._text(404, b"no")
+                return
+            try:
+                _dispatch(api, store, json.loads(raw.decode() or "{}"))
+            except Exception as error:
+                print(f"Falló un mensaje: {error}", flush=True)
+                self._text(500, b"error")
+                return
+            self._text(200, b"ok")
+
+        def _text(self, status, body):
+            self.send_response(status)
             self.send_header("Content-Type", "text/plain")
             self.send_header("Content-Length", str(len(body)))
             self.end_headers()
@@ -185,17 +214,37 @@ def listen_for_healthcheck():
         def log_message(self, format, *args):
             return
 
-    server = ThreadingHTTPServer(("0.0.0.0", int(port)), Health)
+    return Handler
+
+
+def _serve(port, handler):
+    server = ThreadingHTTPServer(("0.0.0.0", port), handler)
     threading.Thread(target=server.serve_forever, daemon=True).start()
-    print(f"Salud en el puerto {port}", flush=True)
+    return server
 
 
 def run(token, store):
-    listen_for_healthcheck()
     api = Telegram(token)
+    external = os.environ.get("RENDER_EXTERNAL_URL", "").strip()
+    port = os.environ.get("PORT", "").strip()
+    if port:
+        _serve(int(port), _handler(api, store))
+        print(f"Salud en el puerto {port}", flush=True)
     me = api.call("getMe", timeout=20)
     api.call("setMyCommands", {"commands": COMMANDS}, timeout=20)
     print(f"Didi está escuchando como @{me.get('username')}", flush=True)
+    if external and port:
+        api.call(
+            "setWebhook",
+            {
+                "url": webhook_url(external),
+                "allowed_updates": ["message", "callback_query"],
+                "drop_pending_updates": False,
+            },
+        )
+        print(f"Webhook en {webhook_url(external)}", flush=True)
+        threading.Event().wait()
+        return
     offset = None
     while True:
         payload = {"timeout": 50, "allowed_updates": ["message", "callback_query"]}

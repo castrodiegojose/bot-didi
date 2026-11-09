@@ -3,7 +3,7 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from didi.bot import listen_for_healthcheck
+from didi.bot import listen_for_healthcheck, webhook_url
 from didi.food import clean_name, is_edible, keywords
 from didi.handle import handle_message, mark_checked
 from didi.parser import parse
@@ -34,6 +34,7 @@ class BotTest(unittest.TestCase):
         previous = os.environ.pop("PORT", None)
         try:
             self.assertIsNone(listen_for_healthcheck())
+            self.assertEqual(webhook_url("https://didi.onrender.com/"), "https://didi.onrender.com/telegram")
         finally:
             if previous is not None:
                 os.environ["PORT"] = previous
