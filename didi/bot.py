@@ -1,7 +1,9 @@
 import json
 import os
+import threading
 import urllib.error
 import urllib.request
+from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 from didi.handle import handle_message, mark_checked
@@ -166,7 +168,30 @@ def _dispatch(api, store, update):
     _send(api, callback["message"]["chat"]["id"], result)
 
 
+def listen_for_healthcheck():
+    port = os.environ.get("PORT")
+    if not port:
+        return
+
+    class Health(BaseHTTPRequestHandler):
+        def do_GET(self):
+            body = b"ok"
+            self.send_response(200)
+            self.send_header("Content-Type", "text/plain")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
+
+        def log_message(self, format, *args):
+            return
+
+    server = ThreadingHTTPServer(("0.0.0.0", int(port)), Health)
+    threading.Thread(target=server.serve_forever, daemon=True).start()
+    print(f"Salud en el puerto {port}", flush=True)
+
+
 def run(token, store):
+    listen_for_healthcheck()
     api = Telegram(token)
     me = api.call("getMe", timeout=20)
     api.call("setMyCommands", {"commands": COMMANDS}, timeout=20)

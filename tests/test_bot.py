@@ -1,7 +1,9 @@
+import os
 import tempfile
 import unittest
 from pathlib import Path
 
+from didi.bot import listen_for_healthcheck
 from didi.food import clean_name, is_edible, keywords
 from didi.handle import handle_message, mark_checked
 from didi.parser import parse
@@ -28,6 +30,14 @@ STAPLES = [
 
 
 class BotTest(unittest.TestCase):
+    def test_sin_puerto_no_abre_servidor(self):
+        previous = os.environ.pop("PORT", None)
+        try:
+            self.assertIsNone(listen_for_healthcheck())
+        finally:
+            if previous is not None:
+                os.environ["PORT"] = previous
+
     def test_normaliza_cantidades_y_acentos(self):
         self.assertEqual(clean_name("2 kg de papas"), "papas")
         self.assertEqual(clean_name("1 litro de leche"), "leche")
