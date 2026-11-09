@@ -1,0 +1,2015 @@
+[
+  {
+    "slug": "pollo-al-horno-con-papas",
+    "name": "Pollo al horno con papas",
+    "minutes": 55,
+    "ingredients": [
+      "pollo",
+      "papa",
+      "cebolla"
+    ],
+    "steps": [
+      "Salpimenten el pollo y mézclenlo con papas en cubos, cebolla en gajos y un chorro de aceite.",
+      "Horneen a 200 °C entre 45 y 55 minutos, hasta que el jugo del pollo salga claro."
+    ]
+  },
+  {
+    "slug": "milanesas-de-pollo",
+    "name": "Milanesas de pollo",
+    "minutes": 30,
+    "ingredients": [
+      "pollo",
+      "huevo",
+      "pan"
+    ],
+    "steps": [
+      "Aplasten las pechugas, pásenlas por huevo batido y pan rallado.",
+      "Cocinen en aceite caliente 3 minutos por lado, o al horno a 200 °C unos 15 minutos."
+    ]
+  },
+  {
+    "slug": "pollo-al-curry-con-arroz",
+    "name": "Pollo al curry con arroz",
+    "minutes": 40,
+    "ingredients": [
+      "pollo",
+      "arroz",
+      "leche",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla, sumen el pollo en cubos y una cucharada de curry. Cubran con leche y dejen 20 minutos.",
+      "Sirvan sobre arroz blanco recién hecho."
+    ]
+  },
+  {
+    "slug": "salpicon-de-pollo",
+    "name": "Salpicón de pollo",
+    "minutes": 25,
+    "ingredients": [
+      "pollo",
+      "papa",
+      "zanahoria",
+      "huevo"
+    ],
+    "steps": [
+      "Cuezan pollo, papas, zanahoria y huevos. Piquen todo chico.",
+      "Mezclen con mayonesa, sal y perejil. Queda mejor frío."
+    ]
+  },
+  {
+    "slug": "suprema-napolitana",
+    "name": "Suprema napolitana",
+    "minutes": 35,
+    "ingredients": [
+      "pollo",
+      "jamon",
+      "queso",
+      "tomate"
+    ],
+    "steps": [
+      "Doren las supremas. Arriba pongan salsa de tomate, jamón y queso.",
+      "Gratinan al horno fuerte hasta que el queso se derrita."
+    ]
+  },
+  {
+    "slug": "pollo-al-limon",
+    "name": "Pollo al limón",
+    "minutes": 35,
+    "ingredients": [
+      "pollo",
+      "limon"
+    ],
+    "steps": [
+      "Doren el pollo, sumen el jugo de dos limones y un vaso de agua.",
+      "Tapen y cocinen 20 minutos. Destapen al final para que reduzca la salsa."
+    ]
+  },
+  {
+    "slug": "wok-de-pollo-con-verduras",
+    "name": "Wok de pollo con verduras",
+    "minutes": 25,
+    "ingredients": [
+      "pollo",
+      "morron",
+      "cebolla",
+      "zanahoria"
+    ],
+    "steps": [
+      "Salteen el pollo en cubos a fuego fuerte. Retírenlo.",
+      "Salteen morrón, cebolla y zanahoria 5 minutos, devuelvan el pollo y mezclen con soja."
+    ]
+  },
+  {
+    "slug": "pollo-a-la-portuguesa",
+    "name": "Pollo a la portuguesa",
+    "minutes": 40,
+    "ingredients": [
+      "pollo",
+      "tomate",
+      "morron",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla y morrón, sumen tomate picado y el pollo.",
+      "Cocinen tapado 25 minutos, con sal y una hoja de laurel si tienen."
+    ]
+  },
+  {
+    "slug": "arroz-con-pollo",
+    "name": "Arroz con pollo",
+    "minutes": 45,
+    "ingredients": [
+      "arroz",
+      "pollo",
+      "morron",
+      "choclo"
+    ],
+    "steps": [
+      "Doren el pollo, sumen morrón y arroz. Cubran con agua, el doble que el arroz.",
+      "A los 15 minutos sumen choclo. Cocinen hasta que el arroz esté seco y suelto."
+    ]
+  },
+  {
+    "slug": "tacos-de-pollo",
+    "name": "Tacos de pollo",
+    "minutes": 25,
+    "ingredients": [
+      "pollo",
+      "tomate",
+      "cebolla",
+      "lechuga"
+    ],
+    "steps": [
+      "Desmenucen pollo cocido y salteenlo con comino y un toque de limón.",
+      "Armen los tacos con lechuga, tomate y cebolla picada."
+    ]
+  },
+  {
+    "slug": "pollo-al-disco",
+    "name": "Pollo al disco",
+    "minutes": 50,
+    "ingredients": [
+      "pollo",
+      "papa",
+      "cebolla",
+      "morron"
+    ],
+    "steps": [
+      "En una olla ancha doren el pollo. Sumen cebolla, morrón y papas en cubos.",
+      "Cubran apenas con agua y cocinen 35 minutos, hasta que las papas estén tiernas."
+    ]
+  },
+  {
+    "slug": "sandwich-de-milanesa-de-pollo",
+    "name": "Sándwich de milanesa de pollo",
+    "minutes": 20,
+    "ingredients": [
+      "pollo",
+      "pan",
+      "huevo",
+      "lechuga"
+    ],
+    "steps": [
+      "Hagan milanesas finas de pollo, con huevo y pan rallado.",
+      "Armen en pan con lechuga y tomate. Si sobró queso, derrítanlo encima."
+    ]
+  },
+  {
+    "slug": "bife-a-la-plancha-con-ensalada",
+    "name": "Bife a la plancha con ensalada",
+    "minutes": 20,
+    "ingredients": [
+      "carne",
+      "lechuga",
+      "tomate"
+    ],
+    "steps": [
+      "Saquen la carne de la heladera 15 minutos antes. Planche bien caliente, 3 minutos por lado.",
+      "Sirvan con lechuga y tomate, sal y aceite."
+    ]
+  },
+  {
+    "slug": "milanesa-napolitana",
+    "name": "Milanesa napolitana",
+    "minutes": 35,
+    "ingredients": [
+      "carne",
+      "huevo",
+      "pan",
+      "jamon",
+      "queso",
+      "tomate"
+    ],
+    "steps": [
+      "Pasen los bifes por huevo y pan rallado. Dórenlos.",
+      "Cubran con tomate, jamón y queso y gratinan 8 minutos."
+    ]
+  },
+  {
+    "slug": "fideos-con-tuco",
+    "name": "Fideos con tuco",
+    "minutes": 40,
+    "ingredients": [
+      "fideo",
+      "carne",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla, sumen carne picada y desarmen los grumos. Sumen tomate y cocinen 25 minutos.",
+      "Hiervan los fideos y mézclenlos con la salsa. Queso rallado arriba."
+    ]
+  },
+  {
+    "slug": "albondigas-con-salsa",
+    "name": "Albóndigas con salsa",
+    "minutes": 40,
+    "ingredients": [
+      "carne",
+      "huevo",
+      "pan",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Mezclen carne, huevo, pan rallado remojado y sal. Armen bolitas.",
+      "Dórenlas y terminen 20 minutos en salsa de tomate y cebolla."
+    ]
+  },
+  {
+    "slug": "carne-al-horno-con-papas",
+    "name": "Carne al horno con papas",
+    "minutes": 70,
+    "ingredients": [
+      "carne",
+      "papa",
+      "cebolla"
+    ],
+    "steps": [
+      "Apoyen un corte de carne sobre papas y cebolla. Sal, pimienta y aceite.",
+      "Horno a 180 °C cerca de una hora. Tapen con papel de aluminio si se dora de más."
+    ]
+  },
+  {
+    "slug": "salteado-de-carne-y-morron",
+    "name": "Salteado de carne y morrón",
+    "minutes": 25,
+    "ingredients": [
+      "carne",
+      "morron",
+      "cebolla"
+    ],
+    "steps": [
+      "Corten la carne fina y salteen a fuego muy fuerte, en dos tandas.",
+      "Sumen morrón y cebolla 4 minutos. Sal, y un chorrito de soja si quieren."
+    ]
+  },
+  {
+    "slug": "hamburguesas-caseras",
+    "name": "Hamburguesas caseras",
+    "minutes": 30,
+    "ingredients": [
+      "carne",
+      "pan",
+      "lechuga",
+      "tomate"
+    ],
+    "steps": [
+      "Mezclen carne picada con sal y armen medallones finos. No las aprieten de más.",
+      "Planche 4 minutos por lado. Armen con pan, lechuga y tomate."
+    ]
+  },
+  {
+    "slug": "guiso-de-lentejas-con-carne",
+    "name": "Guiso de lentejas con carne",
+    "minutes": 50,
+    "ingredients": [
+      "lenteja",
+      "carne",
+      "papa",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla y carne en cubos. Sumen lentejas lavadas, papa y agua que cubra.",
+      "Cocinen 40 minutos hasta que la lenteja esté blanda. Sal al final."
+    ]
+  },
+  {
+    "slug": "pastel-de-papa",
+    "name": "Pastel de papa",
+    "minutes": 50,
+    "ingredients": [
+      "carne",
+      "papa",
+      "huevo",
+      "queso"
+    ],
+    "steps": [
+      "Hagan un tuco corto de carne. Aparte, puré de papas con huevo.",
+      "En una fuente: carne, puré y queso. Horno 20 minutos hasta gratinar."
+    ]
+  },
+  {
+    "slug": "estofado-de-carne",
+    "name": "Estofado de carne",
+    "minutes": 80,
+    "ingredients": [
+      "carne",
+      "papa",
+      "zanahoria",
+      "cebolla"
+    ],
+    "steps": [
+      "Doren la carne, sumen cebolla, zanahoria y papas. Cubran con agua.",
+      "Cocinen tapado a fuego bajo una hora, hasta que la carne se corte con cuchara."
+    ]
+  },
+  {
+    "slug": "empanadas-de-carne",
+    "name": "Empanadas de carne",
+    "minutes": 45,
+    "ingredients": [
+      "carne",
+      "cebolla",
+      "huevo"
+    ],
+    "steps": [
+      "Rehogen mucha cebolla, sumen carne picada, comino y huevo duro picado.",
+      "Rellenen discos, cierren el repulgue y horneen a 200 °C unos 18 minutos."
+    ]
+  },
+  {
+    "slug": "bife-a-caballo",
+    "name": "Bife a caballo",
+    "minutes": 20,
+    "ingredients": [
+      "carne",
+      "huevo"
+    ],
+    "steps": [
+      "Hagan el bife a la plancha, a punto.",
+      "Encima, un huevo frito con la yema blanda y sal gruesa."
+    ]
+  },
+  {
+    "slug": "guiso-de-arroz",
+    "name": "Guiso de arroz",
+    "minutes": 45,
+    "ingredients": [
+      "arroz",
+      "carne",
+      "papa",
+      "zanahoria"
+    ],
+    "steps": [
+      "Doren la carne, sumen papa y zanahoria en cubos y un minuto después el arroz.",
+      "Cubran con el doble de agua y cocinen 20 minutos, sin revolver de más."
+    ]
+  },
+  {
+    "slug": "bondiola-al-horno-con-papas",
+    "name": "Bondiola al horno con papas",
+    "minutes": 75,
+    "ingredients": [
+      "cerdo",
+      "papa"
+    ],
+    "steps": [
+      "Salen la bondiola y apóyenla sobre papas en gajos con aceite.",
+      "Horno a 180 °C una hora. Dejen reposar 10 minutos antes de cortar."
+    ]
+  },
+  {
+    "slug": "chuletas-a-la-plancha",
+    "name": "Chuletas a la plancha",
+    "minutes": 20,
+    "ingredients": [
+      "cerdo",
+      "limon"
+    ],
+    "steps": [
+      "Sequen las chuletas y cocínenlas en plancha caliente 4 minutos por lado.",
+      "Exprímanles limón al servir. No las cocinen de más, se resecan."
+    ]
+  },
+  {
+    "slug": "cerdo-agridulce-con-arroz",
+    "name": "Cerdo agridulce con arroz",
+    "minutes": 35,
+    "ingredients": [
+      "cerdo",
+      "arroz",
+      "morron",
+      "cebolla"
+    ],
+    "steps": [
+      "Salteen el cerdo en cubos. Sumen morrón y cebolla.",
+      "Mezclen con una salsa de kétchup, un toque de vinagre y azúcar. Sirvan con arroz."
+    ]
+  },
+  {
+    "slug": "tacos-de-cerdo",
+    "name": "Tacos de cerdo",
+    "minutes": 30,
+    "ingredients": [
+      "cerdo",
+      "cebolla",
+      "tomate"
+    ],
+    "steps": [
+      "Cocinen el cerdo desmenuzado con comino, sal y un chorrito de agua hasta que se dore.",
+      "Sirvan en tortillas con cebolla y tomate picados."
+    ]
+  },
+  {
+    "slug": "lomo-de-cerdo-al-horno",
+    "name": "Lomo de cerdo al horno",
+    "minutes": 60,
+    "ingredients": [
+      "cerdo",
+      "papa"
+    ],
+    "steps": [
+      "Aten el lomo, salpimenten y dórenlo en olla. Sumen papas en cubos.",
+      "Terminen al horno a 190 °C unos 30 minutos. El centro puede quedar levemente rosado."
+    ]
+  },
+  {
+    "slug": "cerdo-salteado-con-verduras",
+    "name": "Cerdo salteado con verduras",
+    "minutes": 25,
+    "ingredients": [
+      "cerdo",
+      "zanahoria",
+      "morron",
+      "cebolla"
+    ],
+    "steps": [
+      "Salteen el cerdo fileteado a fuego fuerte y retírenlo.",
+      "Salteen zanahoria, morrón y cebolla. Junten todo con sal y un chorro de soja."
+    ]
+  },
+  {
+    "slug": "sandwich-de-bondiola",
+    "name": "Sándwich de bondiola",
+    "minutes": 15,
+    "ingredients": [
+      "cerdo",
+      "pan"
+    ],
+    "steps": [
+      "Corten la bondiola cocida en fetas y calíntenla en plancha.",
+      "Armen en pan, con un poco del jugo de cocción para que no quede seco."
+    ]
+  },
+  {
+    "slug": "cerdo-con-miel",
+    "name": "Cerdo con miel",
+    "minutes": 40,
+    "ingredients": [
+      "cerdo",
+      "miel"
+    ],
+    "steps": [
+      "Doren el cerdo, sumen dos cucharadas de miel y un chorrito de agua.",
+      "Cocinen 25 minutos, bañándolo seguido, hasta que la miel se pegue."
+    ]
+  },
+  {
+    "slug": "cerdo-con-pure",
+    "name": "Cerdo con puré",
+    "minutes": 45,
+    "ingredients": [
+      "cerdo",
+      "papa",
+      "leche",
+      "manteca"
+    ],
+    "steps": [
+      "Cocinen chuletas o bondiola a la plancha.",
+      "Puré: papas hervidas, manteca y leche tibia, sal. Aplasten hasta que quede liso."
+    ]
+  },
+  {
+    "slug": "wok-de-cerdo",
+    "name": "Wok de cerdo",
+    "minutes": 25,
+    "ingredients": [
+      "cerdo",
+      "cebolla",
+      "morron"
+    ],
+    "steps": [
+      "Fileteen el cerdo y salteenlo bien caliente. Retírenlo.",
+      "Salteen cebolla y morrón 4 minutos, devuelvan la carne y mezclen."
+    ]
+  },
+  {
+    "slug": "chuleta-con-ensalada",
+    "name": "Chuleta con ensalada",
+    "minutes": 20,
+    "ingredients": [
+      "cerdo",
+      "lechuga",
+      "tomate"
+    ],
+    "steps": [
+      "Cocinen las chuletas a la plancha con sal.",
+      "Al lado, lechuga y tomate con aceite y sal. Cena lista."
+    ]
+  },
+  {
+    "slug": "cerdo-al-curry",
+    "name": "Cerdo al curry",
+    "minutes": 40,
+    "ingredients": [
+      "cerdo",
+      "arroz",
+      "leche",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla y cerdo en cubos. Sumen curry y leche.",
+      "Cocinen 25 minutos y sirvan con arroz."
+    ]
+  },
+  {
+    "slug": "merluza-al-horno-con-papas",
+    "name": "Merluza al horno con papas",
+    "minutes": 40,
+    "ingredients": [
+      "pescado",
+      "papa",
+      "limon"
+    ],
+    "steps": [
+      "Armen una cama de papas finas, arriba el pescado, limón, sal y aceite.",
+      "Horno a 200 °C unos 25 minutos. El pescado está cuando se deshace en láminas."
+    ]
+  },
+  {
+    "slug": "merluza-a-la-romana",
+    "name": "Merluza a la romana",
+    "minutes": 25,
+    "ingredients": [
+      "pescado",
+      "huevo",
+      "harina"
+    ],
+    "steps": [
+      "Pasen los filetes por harina y huevo batido.",
+      "Frían en aceite caliente 2 minutos por lado, hasta que estén dorados."
+    ]
+  },
+  {
+    "slug": "pescado-a-la-plancha",
+    "name": "Pescado a la plancha",
+    "minutes": 15,
+    "ingredients": [
+      "pescado",
+      "limon"
+    ],
+    "steps": [
+      "Planche bien caliente, filetes secos, 3 minutos por lado.",
+      "Sal al final y limón. Si se pega, esperen a que se suelte solo."
+    ]
+  },
+  {
+    "slug": "pescado-al-papillote",
+    "name": "Pescado al papillote",
+    "minutes": 25,
+    "ingredients": [
+      "pescado",
+      "tomate",
+      "limon"
+    ],
+    "steps": [
+      "En papel de aluminio: pescado, rodajas de tomate, limón y sal.",
+      "Cierren el paquete y horneen a 200 °C 18 minutos."
+    ]
+  },
+  {
+    "slug": "pescado-con-arroz",
+    "name": "Pescado con arroz",
+    "minutes": 30,
+    "ingredients": [
+      "pescado",
+      "arroz"
+    ],
+    "steps": [
+      "Hagan arroz blanco. Aparte, pescado a la plancha con sal.",
+      "Sirvan juntos, con un hilo de aceite de oliva arriba del pescado."
+    ]
+  },
+  {
+    "slug": "croquetas-de-pescado",
+    "name": "Croquetas de pescado",
+    "minutes": 35,
+    "ingredients": [
+      "pescado",
+      "papa",
+      "huevo"
+    ],
+    "steps": [
+      "Mezclen pescado cocido desmenuzado, puré de papa, huevo y sal. Armen croquetas.",
+      "Dórenlas en aceite o al horno a 200 °C unos 15 minutos."
+    ]
+  },
+  {
+    "slug": "pescado-al-ajillo",
+    "name": "Pescado al ajillo",
+    "minutes": 15,
+    "ingredients": [
+      "pescado",
+      "ajo"
+    ],
+    "steps": [
+      "En una sartén con aceite doren ajo en láminas, sin quemarlo.",
+      "Cocinen el pescado 3 minutos por lado en ese aceite. Sal y perejil."
+    ]
+  },
+  {
+    "slug": "sandwich-de-pescado",
+    "name": "Sándwich de pescado",
+    "minutes": 20,
+    "ingredients": [
+      "pescado",
+      "pan",
+      "lechuga"
+    ],
+    "steps": [
+      "Doren filetes finos a la plancha o rebozados.",
+      "Armen en pan con lechuga. Una salsa de yogur y limón le queda muy bien."
+    ]
+  },
+  {
+    "slug": "wok-de-pescado",
+    "name": "Wok de pescado",
+    "minutes": 20,
+    "ingredients": [
+      "pescado",
+      "morron",
+      "cebolla"
+    ],
+    "steps": [
+      "Salteen morrón y cebolla. Sumen pescado en trozos grandes.",
+      "Cocinen 4 minutos, con cuidado de no deshacerlo. Sal y limón."
+    ]
+  },
+  {
+    "slug": "pescado-con-pure",
+    "name": "Pescado con puré",
+    "minutes": 30,
+    "ingredients": [
+      "pescado",
+      "papa",
+      "leche"
+    ],
+    "steps": [
+      "Filetes a la plancha con sal y limón.",
+      "Puré de papas con leche tibia. Sirvan el pescado arriba."
+    ]
+  },
+  {
+    "slug": "tacos-de-pescado",
+    "name": "Tacos de pescado",
+    "minutes": 25,
+    "ingredients": [
+      "pescado",
+      "lechuga",
+      "tomate"
+    ],
+    "steps": [
+      "Corten el pescado en tiras, salpimenten y dórenlo.",
+      "Armen tacos con lechuga y tomate. Limón arriba."
+    ]
+  },
+  {
+    "slug": "ceviche-rapido",
+    "name": "Ceviche rápido",
+    "minutes": 20,
+    "ingredients": [
+      "pescado",
+      "limon",
+      "cebolla"
+    ],
+    "steps": [
+      "Piquen pescado bien fresco, cúbranlo con jugo de limón y cebolla finita.",
+      "Dejen 15 minutos en la heladera, sal y un toque de ají si les gusta."
+    ]
+  },
+  {
+    "slug": "revuelto-de-atun",
+    "name": "Revuelto de atún",
+    "minutes": 15,
+    "ingredients": [
+      "atun",
+      "huevo",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla, sumen el atún escurrido un minuto.",
+      "Sumen los huevos batidos y revuelvan hasta que cuajen, todavía jugosos."
+    ]
+  },
+  {
+    "slug": "ensalada-de-atun",
+    "name": "Ensalada de atún",
+    "minutes": 10,
+    "ingredients": [
+      "atun",
+      "lechuga",
+      "tomate"
+    ],
+    "steps": [
+      "Mezclen atún escurrido con lechuga y tomate en cubos.",
+      "Aceite, limón y sal. Listo, sin cocinar nada."
+    ]
+  },
+  {
+    "slug": "pastel-de-atun-y-papa",
+    "name": "Pastel de atún y papa",
+    "minutes": 40,
+    "ingredients": [
+      "atun",
+      "papa",
+      "huevo"
+    ],
+    "steps": [
+      "Mezclen atún con un huevo. Cubran con puré de papas.",
+      "Horno a 200 °C 20 minutos, hasta que la tapa se dore."
+    ]
+  },
+  {
+    "slug": "fideos-con-atun",
+    "name": "Fideos con atún",
+    "minutes": 20,
+    "ingredients": [
+      "fideo",
+      "atun",
+      "tomate"
+    ],
+    "steps": [
+      "Hiervan los fideos. Aparte, atún y tomate picado en una sartén 5 minutos.",
+      "Mezclen, sal y un hilo de aceite de oliva."
+    ]
+  },
+  {
+    "slug": "arroz-con-atun",
+    "name": "Arroz con atún",
+    "minutes": 25,
+    "ingredients": [
+      "arroz",
+      "atun"
+    ],
+    "steps": [
+      "Hagan arroz. Al final mezclen atún escurrido, sin cocinarlo de más.",
+      "Limón, perejil y sal. Si tienen choclo, sumen una lata."
+    ]
+  },
+  {
+    "slug": "tarta-de-atun",
+    "name": "Tarta de atún",
+    "minutes": 45,
+    "ingredients": [
+      "atun",
+      "huevo",
+      "cebolla"
+    ],
+    "steps": [
+      "Relleno: cebolla rehogada, atún y huevos. Sal.",
+      "Pongan el relleno en una masa o en una fuente y horneen a 190 °C unos 30 minutos."
+    ]
+  },
+  {
+    "slug": "sandwich-de-atun",
+    "name": "Sándwich de atún",
+    "minutes": 10,
+    "ingredients": [
+      "atun",
+      "pan",
+      "tomate"
+    ],
+    "steps": [
+      "Mezclen atún con un chorrito de aceite y sal.",
+      "Armen en pan con rodajas de tomate."
+    ]
+  },
+  {
+    "slug": "atun-con-choclo",
+    "name": "Atún con choclo",
+    "minutes": 15,
+    "ingredients": [
+      "atun",
+      "choclo",
+      "lechuga"
+    ],
+    "steps": [
+      "Mezclen atún, choclo y lechuga cortada.",
+      "Limón, aceite y sal. Sirvan frío."
+    ]
+  },
+  {
+    "slug": "empanadas-de-atun",
+    "name": "Empanadas de atún",
+    "minutes": 40,
+    "ingredients": [
+      "atun",
+      "cebolla",
+      "huevo"
+    ],
+    "steps": [
+      "Rehogen cebolla, mezclen con atún y huevo duro picado.",
+      "Rellenen discos y horneen a 200 °C unos 18 minutos."
+    ]
+  },
+  {
+    "slug": "pizza-de-atun",
+    "name": "Pizza de atún",
+    "minutes": 25,
+    "ingredients": [
+      "atun",
+      "queso",
+      "tomate",
+      "harina"
+    ],
+    "steps": [
+      "Estiren masa de harina, agua y una cucharada de aceite, o usen una prepizza.",
+      "Salsa de tomate, atún y queso. Horno fuerte 12 minutos."
+    ]
+  },
+  {
+    "slug": "atun-salteado-con-arroz",
+    "name": "Atún salteado con arroz",
+    "minutes": 20,
+    "ingredients": [
+      "atun",
+      "arroz",
+      "morron"
+    ],
+    "steps": [
+      "Salteen morrón, sumen atún en trozos grandes 2 minutos.",
+      "Mezclen con arroz ya cocido y salteen todo junto un minuto más."
+    ]
+  },
+  {
+    "slug": "croquetas-de-atun",
+    "name": "Croquetas de atún",
+    "minutes": 30,
+    "ingredients": [
+      "atun",
+      "papa",
+      "huevo"
+    ],
+    "steps": [
+      "Mezclen atún, puré de papa y huevo. Armen bolitas o cilindros.",
+      "Dórenlas en sartén o al horno hasta que estén crocantes."
+    ]
+  },
+  {
+    "slug": "tortilla-de-papas",
+    "name": "Tortilla de papas",
+    "minutes": 40,
+    "ingredients": [
+      "huevo",
+      "papa",
+      "cebolla"
+    ],
+    "steps": [
+      "Frían o horneen papas en láminas con cebolla hasta que estén tiernas.",
+      "Mezclen con huevos batidos y cuajen de los dos lados, con el centro apenas húmedo."
+    ]
+  },
+  {
+    "slug": "omelette-de-queso",
+    "name": "Omelette de queso",
+    "minutes": 10,
+    "ingredients": [
+      "huevo",
+      "queso"
+    ],
+    "steps": [
+      "Batan 2 o 3 huevos con sal. Cuajen en sartén aceitada, sin revolver de más.",
+      "Cuando los bordes estén firmes, sumen queso, doblen y sirvan."
+    ]
+  },
+  {
+    "slug": "huevos-rellenos",
+    "name": "Huevos rellenos",
+    "minutes": 20,
+    "ingredients": [
+      "huevo"
+    ],
+    "steps": [
+      "Hiervan los huevos 10 minutos, enfríen y pártanlos.",
+      "Mezclen las yemas con mayonesa y sal, rellenen las claras."
+    ]
+  },
+  {
+    "slug": "shakshuka",
+    "name": "Shakshuka",
+    "minutes": 25,
+    "ingredients": [
+      "huevo",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla, sumen tomate picado y cocinen 10 minutos hasta que espese.",
+      "Hagan huecos y casquen los huevos adentro. Tapen hasta que la clara cuaje."
+    ]
+  },
+  {
+    "slug": "budin-de-pan",
+    "name": "Budín de pan",
+    "minutes": 50,
+    "ingredients": [
+      "pan",
+      "huevo",
+      "leche"
+    ],
+    "steps": [
+      "Remojen pan viejo en leche. Sumen huevos, azúcar y una pizca de sal.",
+      "Fuente aceitada, horno a 180 °C unos 40 minutos, hasta que al pinchar salga limpio."
+    ]
+  },
+  {
+    "slug": "panqueques",
+    "name": "Panqueques",
+    "minutes": 30,
+    "ingredients": [
+      "huevo",
+      "leche",
+      "harina"
+    ],
+    "steps": [
+      "Batan huevo, leche y harina hasta una mezcla líquida, sin grumos.",
+      "Cuezan cucharones en sartén antiadherente, 40 segundos por lado."
+    ]
+  },
+  {
+    "slug": "flan-casero",
+    "name": "Flan casero",
+    "minutes": 50,
+    "ingredients": [
+      "huevo",
+      "leche"
+    ],
+    "steps": [
+      "Hiervan leche con azúcar y esencia de vainilla. Entibien.",
+      "Mezclen con huevos batidos, colen a moldes y cocinen a baño María 40 minutos."
+    ]
+  },
+  {
+    "slug": "fideos-con-huevo-frito",
+    "name": "Fideos con huevo frito",
+    "minutes": 20,
+    "ingredients": [
+      "fideo",
+      "huevo"
+    ],
+    "steps": [
+      "Hiervan los fideos y mézclenlos con un poco de manteca o aceite.",
+      "Encima, huevos fritos. Sal y queso si tienen."
+    ]
+  },
+  {
+    "slug": "tarta-de-jamon-y-queso",
+    "name": "Tarta de jamón y queso",
+    "minutes": 45,
+    "ingredients": [
+      "huevo",
+      "jamon",
+      "queso"
+    ],
+    "steps": [
+      "Mezclen huevos, jamón picado, queso y un chorrito de leche.",
+      "Vuelquen en una masa y horneen a 190 °C unos 30 minutos."
+    ]
+  },
+  {
+    "slug": "revuelto-gramajo",
+    "name": "Revuelto gramajo",
+    "minutes": 25,
+    "ingredients": [
+      "papa",
+      "huevo",
+      "jamon"
+    ],
+    "steps": [
+      "Doren papas en bastones y sumen jamón en tiritas.",
+      "Agreguen huevos batidos y revuelvan hasta que cuajen, todavía cremosos."
+    ]
+  },
+  {
+    "slug": "arroz-chaufa",
+    "name": "Arroz chaufa",
+    "minutes": 25,
+    "ingredients": [
+      "arroz",
+      "huevo",
+      "cebolla"
+    ],
+    "steps": [
+      "Usen arroz frío de ayer. Salteen cebolla y huevo revuelto.",
+      "Sumen el arroz y salteen fuerte 3 minutos, con soja."
+    ]
+  },
+  {
+    "slug": "ensalada-rusa",
+    "name": "Ensalada rusa",
+    "minutes": 30,
+    "ingredients": [
+      "papa",
+      "zanahoria",
+      "huevo"
+    ],
+    "steps": [
+      "Hiervan papas, zanahoria y huevos. Corten en cubos chicos.",
+      "Mezclen con mayonesa y sal. Sirvan fría."
+    ]
+  },
+  {
+    "slug": "arroz-primavera",
+    "name": "Arroz primavera",
+    "minutes": 25,
+    "ingredients": [
+      "arroz",
+      "zanahoria",
+      "choclo"
+    ],
+    "steps": [
+      "Rehogen zanahoria rallada, sumen el arroz y agua, el doble del arroz.",
+      "A los 12 minutos sumen choclo. Cocinen hasta que se seque."
+    ]
+  },
+  {
+    "slug": "arroz-con-leche",
+    "name": "Arroz con leche",
+    "minutes": 40,
+    "ingredients": [
+      "arroz",
+      "leche"
+    ],
+    "steps": [
+      "Cuezan arroz en agua 15 minutos. Sumen leche y azúcar.",
+      "Sigan a fuego bajo, revolviendo, hasta que espese. Canela al servir."
+    ]
+  },
+  {
+    "slug": "arroz-con-verduras",
+    "name": "Arroz con verduras",
+    "minutes": 30,
+    "ingredients": [
+      "arroz",
+      "morron",
+      "zanahoria",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla, morrón y zanahoria. Sumen el arroz.",
+      "Cubran con el doble de agua y cocinen 18 minutos."
+    ]
+  },
+  {
+    "slug": "risotto-de-queso",
+    "name": "Risotto de queso",
+    "minutes": 35,
+    "ingredients": [
+      "arroz",
+      "queso"
+    ],
+    "steps": [
+      "Doren el arroz un minuto en manteca. Sumen caldo caliente de a cucharones.",
+      "Cuando esté cremoso, fuera del fuego, mezclen queso rallado."
+    ]
+  },
+  {
+    "slug": "arroz-con-lentejas",
+    "name": "Arroz con lentejas",
+    "minutes": 40,
+    "ingredients": [
+      "arroz",
+      "lenteja",
+      "cebolla"
+    ],
+    "steps": [
+      "Cuezan las lentejas 20 minutos. Aparte, rehogen cebolla y arroz.",
+      "Junten todo con agua y cocinen hasta que el arroz esté listo. Sal al final."
+    ]
+  },
+  {
+    "slug": "arroz-al-horno-gratinado",
+    "name": "Arroz al horno gratinado",
+    "minutes": 30,
+    "ingredients": [
+      "arroz",
+      "queso",
+      "tomate"
+    ],
+    "steps": [
+      "Mezclen arroz cocido con tomate y la mitad del queso.",
+      "El resto del queso arriba. Horno fuerte 12 minutos."
+    ]
+  },
+  {
+    "slug": "sopa-de-arroz",
+    "name": "Sopa de arroz",
+    "minutes": 30,
+    "ingredients": [
+      "arroz",
+      "zanahoria",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla y zanahoria, cubran con bastante agua y hiervan.",
+      "Sumen un puñado de arroz y cocinen 18 minutos. Sal y un huevo batido al final si quieren."
+    ]
+  },
+  {
+    "slug": "fideos-con-manteca-y-queso",
+    "name": "Fideos con manteca y queso",
+    "minutes": 15,
+    "ingredients": [
+      "fideo",
+      "manteca",
+      "queso"
+    ],
+    "steps": [
+      "Hiervan los fideos al dente.",
+      "Mézclenlos con manteca y bastante queso rallado. Sal."
+    ]
+  },
+  {
+    "slug": "fideos-con-jamon-y-crema",
+    "name": "Fideos con jamón y crema",
+    "minutes": 20,
+    "ingredients": [
+      "fideo",
+      "jamon",
+      "crema"
+    ],
+    "steps": [
+      "Hiervan los fideos. En una sartén, jamón un minuto y crema.",
+      "Mezclen con los fideos y un puñado de queso. No hiervan la crema de más."
+    ]
+  },
+  {
+    "slug": "ensalada-de-fideos",
+    "name": "Ensalada de fideos",
+    "minutes": 20,
+    "ingredients": [
+      "fideo",
+      "tomate",
+      "queso"
+    ],
+    "steps": [
+      "Hiervan fideos cortos, enfríen bajo el agua.",
+      "Mezclen con tomate en cubos, queso en cubos, aceite y sal."
+    ]
+  },
+  {
+    "slug": "fideos-con-espinaca",
+    "name": "Fideos con espinaca",
+    "minutes": 20,
+    "ingredients": [
+      "fideo",
+      "espinaca"
+    ],
+    "steps": [
+      "Salteen la espinaca con un diente de ajo hasta que baje.",
+      "Mezclen con fideos recién hervidos, aceite y queso si tienen."
+    ]
+  },
+  {
+    "slug": "sopa-de-fideos",
+    "name": "Sopa de fideos",
+    "minutes": 25,
+    "ingredients": [
+      "fideo",
+      "zanahoria",
+      "cebolla"
+    ],
+    "steps": [
+      "Hiervan cebolla y zanahoria en agua con sal.",
+      "Sumen fideos chicos y cocinen el tiempo del paquete. Un chorrito de aceite al servir."
+    ]
+  },
+  {
+    "slug": "fideos-con-pollo",
+    "name": "Fideos con pollo",
+    "minutes": 25,
+    "ingredients": [
+      "fideo",
+      "pollo"
+    ],
+    "steps": [
+      "Salteen pollo en tiras con sal. Hiervan los fideos.",
+      "Mezclen todo con un poco del agua de cocción para que no quede seco."
+    ]
+  },
+  {
+    "slug": "fideos-con-ajo-y-queso",
+    "name": "Fideos con ajo y queso",
+    "minutes": 15,
+    "ingredients": [
+      "fideo",
+      "ajo",
+      "queso"
+    ],
+    "steps": [
+      "Doren ajo laminado en aceite, sin quemarlo.",
+      "Mezclen con fideos y queso rallado."
+    ]
+  },
+  {
+    "slug": "fideos-con-carne-y-morron",
+    "name": "Fideos con carne y morrón",
+    "minutes": 30,
+    "ingredients": [
+      "fideo",
+      "carne",
+      "morron"
+    ],
+    "steps": [
+      "Salteen carne en tiras y morrón a fuego fuerte.",
+      "Mezclen con fideos hervidos y un chorro del agua de la olla."
+    ]
+  },
+  {
+    "slug": "fideos-con-salsa-rapida",
+    "name": "Fideos con salsa rápida",
+    "minutes": 20,
+    "ingredients": [
+      "fideo",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla, sumen tomate picado y cocinen 10 minutos con sal.",
+      "Mezclen con los fideos. Queso arriba."
+    ]
+  },
+  {
+    "slug": "pure-de-papas",
+    "name": "Puré de papas",
+    "minutes": 30,
+    "ingredients": [
+      "papa",
+      "leche",
+      "manteca"
+    ],
+    "steps": [
+      "Hiervan las papas en agua con sal hasta que un tenedor entre fácil.",
+      "Pisen con manteca y leche tibia. Sal. Nada de licuadora, queda pegajoso."
+    ]
+  },
+  {
+    "slug": "papas-al-horno",
+    "name": "Papas al horno",
+    "minutes": 45,
+    "ingredients": [
+      "papa"
+    ],
+    "steps": [
+      "Corten papas en gajos, mezclen con aceite y sal.",
+      "Horno a 200 °C unos 35 minutos, dándolas vuelta a la mitad."
+    ]
+  },
+  {
+    "slug": "papas-crocantes",
+    "name": "Papas crocantes",
+    "minutes": 40,
+    "ingredients": [
+      "papa"
+    ],
+    "steps": [
+      "Hiervan las papas 8 minutos, escúrranlas y sacúdanlas para que se raspien.",
+      "Horno a 220 °C con aceite 25 minutos, hasta que estén doradas."
+    ]
+  },
+  {
+    "slug": "papas-gratinadas",
+    "name": "Papas gratinadas",
+    "minutes": 40,
+    "ingredients": [
+      "papa",
+      "queso",
+      "leche"
+    ],
+    "steps": [
+      "Capas de papa finita, sal, leche y queso.",
+      "Horno a 190 °C unos 35 minutos, hasta que el tenedor entre sin fuerza."
+    ]
+  },
+  {
+    "slug": "noquis-de-papa",
+    "name": "Ñoquis de papa",
+    "minutes": 50,
+    "ingredients": [
+      "papa",
+      "harina"
+    ],
+    "steps": [
+      "Puré de papa bien seco, aún tibio. Sumen harina hasta una masa que no se pegue.",
+      "Armen bollitos, hiérvanlos en agua con sal hasta que floten y mézclenlos con salsa o manteca."
+    ]
+  },
+  {
+    "slug": "croquetas-de-papa",
+    "name": "Croquetas de papa",
+    "minutes": 35,
+    "ingredients": [
+      "papa",
+      "huevo",
+      "queso"
+    ],
+    "steps": [
+      "Mezclen puré frío, huevo y queso en cubos. Armen croquetas.",
+      "Pásenlas por pan rallado si tienen y dórenlas."
+    ]
+  },
+  {
+    "slug": "papas-rellenas",
+    "name": "Papas rellenas",
+    "minutes": 40,
+    "ingredients": [
+      "papa",
+      "queso"
+    ],
+    "steps": [
+      "Papas hervidas, cortadas al medio. Saquen un poco del centro y mézclenlo con queso.",
+      "Rellenen y horneen a 200 °C 12 minutos."
+    ]
+  },
+  {
+    "slug": "sandwich-de-queso-y-tomate",
+    "name": "Sándwich de queso y tomate",
+    "minutes": 10,
+    "ingredients": [
+      "queso",
+      "tomate",
+      "pan"
+    ],
+    "steps": [
+      "Armen pan con fetas de queso y tomate, sal y un hilo de aceite.",
+      "Si quieren, tóstenlo en plancha hasta que el queso ablande."
+    ]
+  },
+  {
+    "slug": "quesadillas-rapidas",
+    "name": "Quesadillas rápidas",
+    "minutes": 15,
+    "ingredients": [
+      "queso",
+      "pan"
+    ],
+    "steps": [
+      "Entre dos tortillas o rebanadas de pan, bastante queso.",
+      "Plancha pesada 3 minutos por lado, hasta que dore y el queso se derrita."
+    ]
+  },
+  {
+    "slug": "salsa-blanca",
+    "name": "Salsa blanca",
+    "minutes": 15,
+    "ingredients": [
+      "leche",
+      "harina",
+      "manteca"
+    ],
+    "steps": [
+      "Derritan manteca, sumen harina y cocinen un minuto sin que tome color.",
+      "Agreguen leche de a poco, batiendo, hasta que espese. Sal y nuez moscada."
+    ]
+  },
+  {
+    "slug": "licuado-de-banana",
+    "name": "Licuado de banana",
+    "minutes": 5,
+    "ingredients": [
+      "leche",
+      "banana"
+    ],
+    "steps": [
+      "Licúen una banana madura con un vaso de leche fría.",
+      "Si la quieren más dulce, media cucharada de miel."
+    ]
+  },
+  {
+    "slug": "chocolate-caliente",
+    "name": "Chocolate caliente",
+    "minutes": 10,
+    "ingredients": [
+      "leche",
+      "chocolate"
+    ],
+    "steps": [
+      "Calienten la leche sin hervirla.",
+      "Fuera del fuego, disuelvan el chocolate y vuelvan un minuto al fuego, revolviendo."
+    ]
+  },
+  {
+    "slug": "avena-con-leche",
+    "name": "Avena con leche",
+    "minutes": 10,
+    "ingredients": [
+      "avena",
+      "leche"
+    ],
+    "steps": [
+      "Hiervan la leche, sumen avena y bajen el fuego 5 minutos.",
+      "Endulcen con miel o banana pisada."
+    ]
+  },
+  {
+    "slug": "scones-de-leche",
+    "name": "Scones de leche",
+    "minutes": 30,
+    "ingredients": [
+      "harina",
+      "leche",
+      "manteca"
+    ],
+    "steps": [
+      "Mezclen harina, una pizca de sal, manteca fría en grumos y leche hasta unir.",
+      "Discos gordos en una placa. Horno a 200 °C unos 15 minutos."
+    ]
+  },
+  {
+    "slug": "budin-de-vainilla",
+    "name": "Budín de vainilla",
+    "minutes": 50,
+    "ingredients": [
+      "leche",
+      "huevo",
+      "harina"
+    ],
+    "steps": [
+      "Mezclen huevos, azúcar, leche, harina y vainilla hasta que esté liso.",
+      "Molde aceitado, horno a 180 °C unos 40 minutos."
+    ]
+  },
+  {
+    "slug": "hamburguesas-de-lentejas",
+    "name": "Hamburguesas de lentejas",
+    "minutes": 30,
+    "ingredients": [
+      "lenteja",
+      "huevo"
+    ],
+    "steps": [
+      "Pisen lentejas cocidas, mezclen con huevo, sal y un poco de harina si se desarma.",
+      "Armen medallones y dórenlos 4 minutos por lado."
+    ]
+  },
+  {
+    "slug": "ensalada-de-lentejas",
+    "name": "Ensalada de lentejas",
+    "minutes": 15,
+    "ingredients": [
+      "lenteja",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Lentejas cocidas y frías, tomate y cebolla finita.",
+      "Aceite, vinagre y sal. Mejor si descansa 10 minutos."
+    ]
+  },
+  {
+    "slug": "sopa-de-lentejas",
+    "name": "Sopa de lentejas",
+    "minutes": 40,
+    "ingredients": [
+      "lenteja",
+      "zanahoria",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla y zanahoria, sumen lentejas y agua.",
+      "Cocinen 35 minutos. Pisen una parte para que la sopa espese."
+    ]
+  },
+  {
+    "slug": "lentejas-al-curry",
+    "name": "Lentejas al curry",
+    "minutes": 35,
+    "ingredients": [
+      "lenteja",
+      "leche",
+      "arroz"
+    ],
+    "steps": [
+      "Cuezan lentejas con curry, cebolla y leche o agua de coco si tienen.",
+      "Cuando estén blandas, sirvan con arroz."
+    ]
+  },
+  {
+    "slug": "lentejas-con-huevo",
+    "name": "Lentejas con huevo",
+    "minutes": 20,
+    "ingredients": [
+      "lenteja",
+      "huevo"
+    ],
+    "steps": [
+      "Calienten lentejas cocidas con un chorrito de aceite y sal.",
+      "Sirvan con un huevo frito o escalfado arriba."
+    ]
+  },
+  {
+    "slug": "lentejas-con-verduras",
+    "name": "Lentejas con verduras",
+    "minutes": 35,
+    "ingredients": [
+      "lenteja",
+      "zanahoria",
+      "morron"
+    ],
+    "steps": [
+      "Salteen zanahoria y morrón, sumen lentejas cocidas.",
+      "Mezclen 5 minutos con sal y comino."
+    ]
+  },
+  {
+    "slug": "albondigas-de-lentejas",
+    "name": "Albóndigas de lentejas",
+    "minutes": 35,
+    "ingredients": [
+      "lenteja",
+      "huevo",
+      "tomate"
+    ],
+    "steps": [
+      "Pisen lentejas, mezclen con huevo y armen bolitas.",
+      "Dórenlas y terminen 10 minutos en salsa de tomate."
+    ]
+  },
+  {
+    "slug": "pure-de-lentejas",
+    "name": "Puré de lentejas",
+    "minutes": 30,
+    "ingredients": [
+      "lenteja",
+      "cebolla"
+    ],
+    "steps": [
+      "Cuezan lentejas con cebolla hasta que estén muy blandas.",
+      "Pisen o procesen con un chorro del caldo, sal y aceite de oliva."
+    ]
+  },
+  {
+    "slug": "guiso-vegetariano-de-lentejas",
+    "name": "Guiso vegetariano de lentejas",
+    "minutes": 45,
+    "ingredients": [
+      "lenteja",
+      "papa",
+      "zanahoria"
+    ],
+    "steps": [
+      "Rehogen zanahoria, sumen papa y lentejas. Cubran con agua.",
+      "Cocinen 40 minutos. Sal, comino y un chorrito de vinagre al final."
+    ]
+  },
+  {
+    "slug": "lentejas-al-horno",
+    "name": "Lentejas al horno",
+    "minutes": 30,
+    "ingredients": [
+      "lenteja",
+      "tomate"
+    ],
+    "steps": [
+      "Mezclen lentejas cocidas con tomate y aceite.",
+      "Fuente al horno a 200 °C 15 minutos, para que el tomate se concentre."
+    ]
+  },
+  {
+    "slug": "pollo-marinado-en-yogur",
+    "name": "Pollo marinado en yogur",
+    "minutes": 40,
+    "ingredients": [
+      "pollo",
+      "yogur",
+      "limon"
+    ],
+    "steps": [
+      "Mezclen yogur, limón, sal y ajo. Cubran el pollo y dejen 20 minutos.",
+      "Horno a 200 °C unos 25 minutos, o plancha hasta que dore."
+    ]
+  },
+  {
+    "slug": "dip-de-yogur-y-pepino",
+    "name": "Dip de yogur y pepino",
+    "minutes": 10,
+    "ingredients": [
+      "yogur",
+      "pepino"
+    ],
+    "steps": [
+      "Rallen pepino, exprímanlo y mézclenlo con yogur natural, sal y un diente de ajo.",
+      "Déjenlo 10 minutos en la heladera. Va con carne o con pan."
+    ]
+  },
+  {
+    "slug": "avena-con-yogur-y-banana",
+    "name": "Avena con yogur y banana",
+    "minutes": 5,
+    "ingredients": [
+      "yogur",
+      "avena",
+      "banana"
+    ],
+    "steps": [
+      "En un frasco: yogur, avena y banana en rodajas.",
+      "Mezclen y coman al momento, o déjenlo en la heladera de un día para el otro."
+    ]
+  },
+  {
+    "slug": "licuado-de-frutilla-y-yogur",
+    "name": "Licuado de frutilla y yogur",
+    "minutes": 5,
+    "ingredients": [
+      "yogur",
+      "frutilla"
+    ],
+    "steps": [
+      "Licúen yogur, frutillas y un chorrito de leche si queda muy espeso.",
+      "Sirvan frío. Sin azúcar si las frutillas están maduras."
+    ]
+  },
+  {
+    "slug": "parfait-de-yogur-y-frutas",
+    "name": "Parfait de yogur y frutas",
+    "minutes": 10,
+    "ingredients": [
+      "yogur",
+      "banana"
+    ],
+    "steps": [
+      "En un vaso, capas de yogur y banana. Si hay frutillas, sumen una capa.",
+      "Terminen con avena o miel. No hace falta cocinar."
+    ]
+  },
+  {
+    "slug": "salsa-de-yogur-para-la-carne",
+    "name": "Salsa de yogur para la carne",
+    "minutes": 10,
+    "ingredients": [
+      "yogur",
+      "carne"
+    ],
+    "steps": [
+      "Mezclen yogur con sal, limón y perejil picado.",
+      "Hagan el bife a la plancha y sirvan la salsa fría al lado."
+    ]
+  },
+  {
+    "slug": "budin-de-yogur",
+    "name": "Budín de yogur",
+    "minutes": 45,
+    "ingredients": [
+      "yogur",
+      "huevo",
+      "harina"
+    ],
+    "steps": [
+      "Mezclen yogur, huevos, azúcar, aceite y harina hasta unir.",
+      "Molde aceitado, horno a 180 °C unos 35 minutos."
+    ]
+  },
+  {
+    "slug": "ensalada-de-pepino-y-yogur",
+    "name": "Ensalada de pepino y yogur",
+    "minutes": 10,
+    "ingredients": [
+      "yogur",
+      "pepino",
+      "lechuga"
+    ],
+    "steps": [
+      "Corten pepino y lechuga. Mezclen con yogur, sal y limón.",
+      "Sirvan enseguida para que la lechuga no se ablande."
+    ]
+  },
+  {
+    "slug": "postre-de-yogur-con-miel",
+    "name": "Postre de yogur con miel",
+    "minutes": 5,
+    "ingredients": [
+      "yogur",
+      "miel"
+    ],
+    "steps": [
+      "Mezclen yogur natural con una cucharada de miel.",
+      "Si tienen fruta, córtenla arriba. Listo."
+    ]
+  },
+  {
+    "slug": "pollo-al-yogur-con-arroz",
+    "name": "Pollo al yogur con arroz",
+    "minutes": 40,
+    "ingredients": [
+      "pollo",
+      "yogur",
+      "arroz"
+    ],
+    "steps": [
+      "Doren el pollo, sumen yogur y una pizca de curry o comino. Cocinen 20 minutos.",
+      "Sirvan con arroz. Si el yogur se corta, batan un segundo: igual está rico."
+    ]
+  },
+  {
+    "slug": "licuado-de-banana-y-yogur",
+    "name": "Licuado de banana y yogur",
+    "minutes": 5,
+    "ingredients": [
+      "yogur",
+      "banana",
+      "leche"
+    ],
+    "steps": [
+      "Licúen yogur, banana y media taza de leche.",
+      "Sirvan enseguida, antes de que la banana oscurezca."
+    ]
+  },
+  {
+    "slug": "yogur-con-avena-y-miel",
+    "name": "Yogur con avena y miel",
+    "minutes": 5,
+    "ingredients": [
+      "yogur",
+      "avena",
+      "miel"
+    ],
+    "steps": [
+      "Mezclen yogur con dos cucharadas de avena y miel.",
+      "Déjenlo 5 minutos para que la avena se hidrate, o toda la noche en la heladera."
+    ]
+  },
+  {
+    "slug": "panqueques-con-dulce-de-leche",
+    "name": "Panqueques con dulce de leche",
+    "minutes": 30,
+    "ingredients": [
+      "ddl",
+      "huevo",
+      "leche"
+    ],
+    "steps": [
+      "Hagan panqueques con huevo, leche y harina.",
+      "Rellenen con dulce de leche y doblen. Apenas tibios."
+    ]
+  },
+  {
+    "slug": "banana-partida-con-dulce-de-leche",
+    "name": "Banana partida con dulce de leche",
+    "minutes": 5,
+    "ingredients": [
+      "ddl",
+      "banana"
+    ],
+    "steps": [
+      "Partan la banana al medio.",
+      "Rellenen con dulce de leche. Si quieren, un minuto al horno."
+    ]
+  },
+  {
+    "slug": "postre-de-dulce-de-leche-y-queso",
+    "name": "Postre de dulce de leche y queso",
+    "minutes": 10,
+    "ingredients": [
+      "ddl",
+      "queso"
+    ],
+    "steps": [
+      "Mezclen queso crema con dulce de leche hasta una crema pareja.",
+      "Sirvan frío, con galletitas o fruta."
+    ]
+  },
+  {
+    "slug": "pollo-al-ajillo",
+    "name": "Pollo al ajillo",
+    "minutes": 30,
+    "ingredients": [
+      "pollo",
+      "ajo"
+    ],
+    "steps": [
+      "Doren el pollo. Sumen varios dientes de ajo aplastados y un vaso de agua.",
+      "Cocinen tapado 20 minutos. Destapen para reducir. Sal y perejil."
+    ]
+  },
+  {
+    "slug": "papas-al-ajo",
+    "name": "Papas al ajo",
+    "minutes": 40,
+    "ingredients": [
+      "papa",
+      "ajo"
+    ],
+    "steps": [
+      "Gajos de papa con ajo en láminas, aceite y sal.",
+      "Horno a 200 °C unos 35 minutos, moviendo a la mitad."
+    ]
+  },
+  {
+    "slug": "carne-al-ajillo",
+    "name": "Carne al ajillo",
+    "minutes": 20,
+    "ingredients": [
+      "carne",
+      "ajo"
+    ],
+    "steps": [
+      "Planche la carne. En la misma sartén, ajo laminado en el jugo que soltó.",
+      "Baña el bife con ese aceite. Un minuto, no más, para que el ajo no amargue."
+    ]
+  },
+  {
+    "slug": "ensalada-de-palta",
+    "name": "Ensalada de palta",
+    "minutes": 10,
+    "ingredients": [
+      "palta",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Corten palta y tomate. Cebolla bien finita, si les gusta.",
+      "Limón, sal y aceite. Coman enseguida."
+    ]
+  },
+  {
+    "slug": "palta-con-huevo",
+    "name": "Palta con huevo",
+    "minutes": 15,
+    "ingredients": [
+      "palta",
+      "huevo"
+    ],
+    "steps": [
+      "Huevo poché o frito.",
+      "Sirvan sobre palta pisada con sal y limón."
+    ]
+  },
+  {
+    "slug": "tostada-de-palta",
+    "name": "Tostada de palta",
+    "minutes": 8,
+    "ingredients": [
+      "palta",
+      "pan"
+    ],
+    "steps": [
+      "Tuesten el pan.",
+      "Palta pisada con sal y limón, encima. Un hilo de aceite."
+    ]
+  },
+  {
+    "slug": "guiso-de-zapallo",
+    "name": "Guiso de zapallo",
+    "minutes": 40,
+    "ingredients": [
+      "zapallo",
+      "cebolla",
+      "arroz"
+    ],
+    "steps": [
+      "Rehogen cebolla, sumen zapallo en cubos y un puñado de arroz.",
+      "Cubran con agua y cocinen 25 minutos, hasta que el zapallo se desarme un poco."
+    ]
+  },
+  {
+    "slug": "zapallo-asado",
+    "name": "Zapallo asado",
+    "minutes": 35,
+    "ingredients": [
+      "zapallo"
+    ],
+    "steps": [
+      "Gajos de zapallo con aceite y sal.",
+      "Horno a 200 °C unos 30 minutos, hasta que el borde se dore."
+    ]
+  },
+  {
+    "slug": "batatas-al-horno",
+    "name": "Batatas al horno",
+    "minutes": 40,
+    "ingredients": [
+      "batata"
+    ],
+    "steps": [
+      "Batatas en gajos, con cáscara si está limpia, aceite y sal.",
+      "Horno a 200 °C unos 35 minutos."
+    ]
+  },
+  {
+    "slug": "pure-de-batata",
+    "name": "Puré de batata",
+    "minutes": 30,
+    "ingredients": [
+      "batata",
+      "manteca"
+    ],
+    "steps": [
+      "Hiervan la batata hasta que esté blanda.",
+      "Pisen con manteca y sal. Un chorrito de leche si lo quieren más suave."
+    ]
+  },
+  {
+    "slug": "manzana-asada",
+    "name": "Manzana asada",
+    "minutes": 25,
+    "ingredients": [
+      "manzana"
+    ],
+    "steps": [
+      "Saquen el centro de las manzanas, un poco de azúcar o miel adentro.",
+      "Horno a 180 °C unos 20 minutos. Se comen con cuchara."
+    ]
+  },
+  {
+    "slug": "ensalada-de-garbanzos",
+    "name": "Ensalada de garbanzos",
+    "minutes": 15,
+    "ingredients": [
+      "garbanzo",
+      "tomate",
+      "cebolla"
+    ],
+    "steps": [
+      "Garbanzos cocidos o de lata, tomate y cebolla.",
+      "Aceite, limón y sal. Perejil si tienen."
+    ]
+  },
+  {
+    "slug": "garbanzos-salteados",
+    "name": "Garbanzos salteados",
+    "minutes": 20,
+    "ingredients": [
+      "garbanzo",
+      "morron",
+      "cebolla"
+    ],
+    "steps": [
+      "Rehogen cebolla y morrón. Sumen garbanzos escurridos.",
+      "Salteen 8 minutos con comino y sal."
+    ]
+  },
+  {
+    "slug": "guiso-de-porotos",
+    "name": "Guiso de porotos",
+    "minutes": 50,
+    "ingredients": [
+      "poroto",
+      "cebolla",
+      "zanahoria"
+    ],
+    "steps": [
+      "Si los porotos están secos, déjenlos en remojo desde la noche anterior.",
+      "Cocinen con cebolla y zanahoria en agua unas 40 minutos. Sal al final."
+    ]
+  },
+  {
+    "slug": "ensalada-de-porotos",
+    "name": "Ensalada de porotos",
+    "minutes": 10,
+    "ingredients": [
+      "poroto",
+      "tomate"
+    ],
+    "steps": [
+      "Porotos cocidos y fríos con tomate en cubos.",
+      "Aceite, vinagre y sal."
+    ]
+  },
+  {
+    "slug": "jugo-de-naranja-exprimido",
+    "name": "Jugo de naranja exprimido",
+    "minutes": 5,
+    "ingredients": [
+      "naranja"
+    ],
+    "steps": [
+      "Expriman las naranjas en el momento.",
+      "Si están muy ácidas, un toque de miel. Tómenlo ese día."
+    ]
+  },
+  {
+    "slug": "ensalada-de-naranja",
+    "name": "Ensalada de naranja",
+    "minutes": 10,
+    "ingredients": [
+      "naranja",
+      "cebolla"
+    ],
+    "steps": [
+      "Gajos de naranja y cebolla morada bien fina, si tienen.",
+      "Aceite, sal y un toque de vinagre. Va bien al lado de la carne."
+    ]
+  }
+]
